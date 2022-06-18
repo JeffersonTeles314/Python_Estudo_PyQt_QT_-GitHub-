@@ -18,5 +18,4 @@ Tailsko = Harem("tailsko",5,[])
 Sonikko = Harem("sonikko",20,[])
 CoelhaSabida= Harem("sabida",20,[])
 
-sadasdsd
 
