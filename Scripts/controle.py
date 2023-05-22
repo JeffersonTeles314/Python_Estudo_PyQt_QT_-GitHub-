@@ -17,8 +17,8 @@ def funcao_principal():
     print("Preco",linha3)
     
 
-app=QtWidgets.QApplication([])
-formulario=uic.loadUi("formulario.ui")
+app = QtWidgets.QApplication([])
+formulario = uic.loadUi("formulario.ui")
 formulario.pushButton.clicked.connect(funcao_principal)
 
 formulario.show()
